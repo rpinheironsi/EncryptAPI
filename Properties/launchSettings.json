@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EncryptAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7174",
+      "launchUrl": "http://localhost:7174/api/EncryptAPI",
+      "launchBrowser": false
+    }
+  }
+}
